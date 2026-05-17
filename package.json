@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/metro-runtime": "~6.1.2",
     "@supabase/supabase-js": "^2.105.1",
     "expo": "~54.0.33",
     "expo-auth-session": "~7.0.11",
